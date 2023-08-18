@@ -1,0 +1,2 @@
+Build Command:
+py -3.9 -m PyInstaller --onefile --noconsole --icon "icon.ico" --hidden-import babel.numbers "nurse_aid.py"
